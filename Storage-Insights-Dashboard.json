@@ -152,7 +152,7 @@
           "root_selector": "$.data[*].name",
           "source": "url",
           "type": "json",
-          "url": "https://insights.ibm.com/restapi/v1/tenants/${TenantID}/storage-systems/04f35620-0929-11ef-a00e-bb485ff9ee4b/drives",
+          "url": "https://insights.ibm.com/restapi/v1/tenants/${TenantID}/storage-systems/${SystemUUID}/drives",
           "url_options": {
             "data": "",
             "headers": [
