@@ -159,6 +159,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -252,6 +260,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -509,6 +525,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -683,6 +707,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -953,6 +985,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -1297,6 +1337,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -1447,6 +1495,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -1617,6 +1673,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -1844,6 +1908,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -1980,6 +2052,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -2189,6 +2269,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -2433,6 +2521,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -2711,6 +2807,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -2966,6 +3070,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -3145,6 +3257,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -3492,6 +3612,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -3519,6 +3647,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -3546,6 +3682,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -3573,6 +3717,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -3600,6 +3752,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -3818,6 +3978,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -4081,6 +4249,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -4260,6 +4436,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -4434,6 +4618,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -4585,6 +4777,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -4759,6 +4959,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -5064,6 +5272,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -5374,6 +5590,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -5837,6 +6061,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -6234,6 +6466,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -6598,6 +6838,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -7035,6 +7283,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -7467,6 +7723,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -7774,6 +8038,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -8181,6 +8453,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -8504,6 +8784,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -8798,6 +9086,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -9121,6 +9417,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -9515,6 +9819,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -9925,6 +10237,14 @@
               {
                 "key": "x-api-token",
                 "value": "${APIToken}"
+              },
+              {
+                "key": "x-integration",
+                "value": "${APIIntegration}"
+              },
+              {
+                "key": "x-integration-version",
+                "value": "${APIIntegrationVersion}"
               }
             ],
             "method": "GET"
@@ -10376,6 +10696,14 @@
                   {
                     "key": "x-api-token",
                     "value": "${APIToken}"
+                  },
+                  {
+                    "key": "x-integration",
+                    "value": "${APIIntegration}"
+                  },
+                  {
+                    "key": "x-integration-version",
+                    "value": "${APIIntegrationVersion}"
                   }
                 ],
                 "method": "GET"
@@ -10565,6 +10893,14 @@
                 {
                   "key": "x-api-token",
                   "value": "${APIToken}"
+                },
+                {
+                  "key": "x-integration",
+                  "value": "${APIIntegration}"
+                },
+                {
+                  "key": "x-integration-version",
+                  "value": "${APIIntegrationVersion}"
                 }
               ],
               "method": "GET"
@@ -10607,6 +10943,14 @@
                 {
                   "key": "x-api-token",
                   "value": "${APIToken}"
+                },
+                {
+                  "key": "x-integration",
+                  "value": "${APIIntegration}"
+                },
+                {
+                  "key": "x-integration-version",
+                  "value": "${APIIntegrationVersion}"
                 }
               ],
               "method": "GET"
@@ -10620,6 +10964,24 @@
         "skipUrlSync": true,
         "sort": 1,
         "type": "query"
+      },
+      {
+        "description": "Integration source",
+        "hide": 2,
+        "label": "APIIntegration",
+        "name": "APIIntegration",
+        "query": "si-grafana",
+        "skipUrlSync": false,
+        "type": "constant"
+      },
+      {
+        "description": "Software integration version",
+        "hide": 2,
+        "label": "APIIntegrationVersion",
+        "name": "APIIntegrationVersion",
+        "query": "v1",
+        "skipUrlSync": false,
+        "type": "constant"
       }
     ]
   },
